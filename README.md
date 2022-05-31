@@ -3,7 +3,8 @@
 a web application to sell and buy flowers using Laravel 
 
 Preview:
-<img width="1440" alt="7" src="https://user-images.githubusercontent.com/86879174/171088838-5f15cab5-60ac-40f4-83f3-6bf8c93e1d64.png">
+
+<img width="853" alt="Frame 3" src="https://user-images.githubusercontent.com/86879174/171088988-34d3cac8-8f69-4aaa-b901-947083240921.png">
 
 Pages:
 | | |
