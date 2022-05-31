@@ -3,7 +3,9 @@
 a web application to sell and buy flowers using Laravel 
 
 Admin Credential:
+
 Email: admin@mail.com
+
 Password: admin
 
 Preview:
