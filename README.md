@@ -2,6 +2,10 @@
 # Online Florist
 a web application to sell and buy flowers using Laravel 
 
+Admin Credential:
+Email: admin@mail.com
+Password: admin
+
 Preview:
 
 <img width="853" alt="Frame 3" src="https://user-images.githubusercontent.com/86879174/171088988-34d3cac8-8f69-4aaa-b901-947083240921.png">
